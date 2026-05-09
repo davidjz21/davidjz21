@@ -14,7 +14,7 @@ SOFTWARE ENGINEERING STUDENT
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,css,html,js,An,mysql,sqlite,git,github,bash,linux,ai,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=java,py,css,html,js,mysql,sqlite,git,github,bash,linux,ai,ps&perline=12" />
   </a>
 </p>
 <br>
