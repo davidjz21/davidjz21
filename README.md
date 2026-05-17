@@ -1,8 +1,13 @@
-<h1 align="center">👋 Hi, I'm David</h1>
+<h1>👋 Hi, I'm David</h1>
+
+<div>
+<a href="https://linkedin.com/in/david-peláez-480ba0284"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:w.yield807@simplelogin.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</div>
 
 <br>
 
-<img align="right" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/28f4413b27e2d5142cb2cf412576b5be-1667002896/superpixelersanimation/create-a-custom-pixel-art-wallpaper-background.gif" alt="Profile Image" width="340" />
+<img align="right" src="assets/create-a-custom-pixel-art-wallpaper-background.gif" alt="Profile Image" width="340" />
 
 ### 💫 About Me
 
@@ -16,6 +21,8 @@
 
 ### 🛠️ Languages & Tools
 
+<br>
+
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -25,15 +32,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-<br>
-
-### 🌐 Connect with me
-
-<div>
-<a href="https://linkedin.com/in/david-peláez-480ba0284"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:w.yield807@simplelogin.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</div>
 
 <br>
 
@@ -47,5 +45,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=davidjz21&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+<br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=80&section=footer"/>
