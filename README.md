@@ -9,7 +9,7 @@
 
 <img align="right" src="assets/create-a-custom-pixel-art-wallpaper-background.gif" alt="Profile Image" width="340" />
 
-### 💫 About Me
+### About Me
 
 - Software Engineering Student
 - Full-stack development with Java & Spring Boot, Angular, JavaScript & TypeScript, Node.js
@@ -19,7 +19,7 @@
 
 <br>
 
-### 🛠️ Languages & Tools
+### Languages & Tools
 
 <br>
 
@@ -35,7 +35,7 @@
 
 <br>
 
-### ⚙️ GitHub Analytics
+### GitHub Analytics
 
 <br>
 
@@ -45,7 +45,3 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=davidjz21&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-<br>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=80&section=footer"/>
