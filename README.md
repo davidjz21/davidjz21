@@ -12,7 +12,7 @@
 ### About Me
 
 - Software Engineering Student
-- Full-stack development with Java & Spring Boot, Angular, JavaScript & TypeScript, Node.js
+- Full-stack development with Java & Spring Boot, react, JavaScript, Node.js
 - Databases: MySQL, PostgreSQL, Oracle, MongoDB, Cassandra & MariaDB
 - Knowledge in networking and data communications
 - Continuously learning new web development technologies and tools
@@ -26,7 +26,7 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
