@@ -12,7 +12,7 @@
 ### About Me
 
 - Software Engineering Student
-- Full-stack development with Java & Spring Boot, react, JavaScript, Node.js
+- Full-stack development with Java & Spring Boot, React, JavaScript, Node.js
 - Databases: MySQL, PostgreSQL, Oracle, MongoDB, Cassandra & MariaDB
 - Knowledge in networking and data communications
 - Continuously learning new web development technologies and tools
